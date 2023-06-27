@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @ukaratas
+- 👋 Hi, I’m just simple architect ;)
+- 
 
